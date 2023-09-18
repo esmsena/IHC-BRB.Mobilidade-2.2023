@@ -40,7 +40,7 @@
 
 ## Código de Conduta:
 
-- Lembre-se de que o [Código de Conduta](../docs/CODE_OF_CONDUCT.md) também se aplica ao processo de contribuição.
+- Lembre-se de que o [Código de Conduta](./CODE_OF_CONDUCT.md) também se aplica ao processo de contribuição.
 
 Essas são as políticas de contribuição que todos os colaboradores e contribuidores devem seguir ao trabalhar neste projeto. Certifique-se de revisar e aderir a essas diretrizes ao contribuir para este repositório.
 

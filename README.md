@@ -26,10 +26,10 @@ python -m mkdocs gh-deploy
 ```
 
 ## Código de Conduta
-Não deixe de visitar nosso [Código de Conduta](./project/docs/CODE_OF_CONDUCT.md) para saber mais sobre nossa ética profissional.
+Não deixe de visitar nosso [Código de Conduta](./docs/CODE_OF_CONDUCT.md) para saber mais sobre nossa ética profissional.
 
 ## Políticas de Contribuição
-Antes de contribuir nesse repositório, lembre-se de consultar as [Políticas de Contribuição](./project/docs/CONTRIBUTING.md) para garantir que está seguindo nossas políticas.
+Antes de contribuir nesse repositório, lembre-se de consultar as [Políticas de Contribuição](./docs/CONTRIBUTING.md) para garantir que está seguindo nossas políticas.
 
 ## Integrantes
 
