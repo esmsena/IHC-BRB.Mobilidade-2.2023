@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Grupo 03 - BRB Mobilidade
+site_url: 
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
