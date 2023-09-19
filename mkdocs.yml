@@ -1,6 +1,39 @@
-site_name: Grupo 03 - BRB Mobilidade
-site_url: 
+site_name: Grupo 3 - BRB Mobilidade
+repo_url: https://github.com/esmsena/IHC-BRB.Mobilidade-2.2023
+
+theme:
+  name: material
+  language: pt
+  logo: ./docs/assets/brb_logo.png
+  favicon: ./docs/assets/brb_logo.png
+  features:
+    - navigation.footer
+    - header.autohide
+
+  plugins:
+    - mkdocs-video
+  
+  favicon: ./assets/twitch_icon.png
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        
 nav:
-  - Home: index.md
-  - About: about.md
-theme: readthedocs
+    - Início: ./README.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
