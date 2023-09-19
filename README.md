@@ -3,7 +3,7 @@
 Repositório dedicado à análise de Interação Humano Computador do website do BRB Mobilidade, especificamente da aba relacionada a passes estudantis.
 
 <div align="center">
-<img src="./project/docs/assets/brb_logo.png" alt="Logotipo BRB Mobilidade" style="height:50%; width:50%;"/>
+<img src="./docs/assets/brb_logo.png" alt="Logotipo BRB Mobilidade" style="height:50%; width:50%;"/>
 </div>
 
 ## Rodando o mkdocs 
