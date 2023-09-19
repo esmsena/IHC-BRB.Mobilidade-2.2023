@@ -30,7 +30,7 @@ theme:
         name: Switch to light mode
         
 nav:
-    - Início: ./README.md
+    - Início: index.md
 
 markdown_extensions:
   - toc:
