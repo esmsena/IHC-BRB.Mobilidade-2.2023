@@ -33,8 +33,7 @@ Tabela 3: Cronograma detalhado da Quest #2
 |  Territorios | Descrição | Data do início   | Data do Fim  |  Autor(es) |
 |  --- |  --- |  --- |  --- |  --- |
 |  Territorio 4 |  Análise de dados em IHC |  11/09 |  11/09 |  --- |  
-|  Territorio 5 |  Compreensão e
-conceituação da interação |  13/09 |  13/09 |  --- | 
+|  Territorio 5 |  Compreensão e conceituação da interação |  13/09 |  13/09 |  --- | 
 
 ## Horizonte 
 
