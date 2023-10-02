@@ -2,6 +2,8 @@
 
 ## Introdução
 
+Este documento apresenta um cronograma essencial para a gestão e organização eficaz do projeto ao longo do semestre, para isso, utilizamos como fonte primordial o Plano de Ensino oficial da disciplina de Interação Humano Computador ministrada pelo professor Sérgio A. A. de Freitas. O primeiro cronograma (tabela 1) oferece uma visão geral do desenvolvimento do projeto, destacando as atividades, datas de entrega e as datas de apresentação de cada ponto de controle. Já o segundo cronograma detalhado (Tabela 2 à 14)desdobra as etapas do cronograma geral em uma estrutura mais minuciosa, fornecendo informações precisas sobre datas, conteúdos, responsabilidades específicas de cada membro da equipe, autores e revisores
+
 ## Motivação e Objetivo
 
 ## Cronograma Geral
@@ -21,8 +23,8 @@ Tabela 2: Cronograma detalhado da Quest #1
 
 |  Territorios | Descrição | Data do início   | Data do Fim  |  Autor(es) |
 |  --- |  --- |  --- |  --- |  --- |
-|  Territorio 2 |  --- |  04/09 |  04/09 |  --- |  
-|  Territorio 3 |  --- |  06/09 |  06/09 |  --- |  
+|  Territorio 2 |  Heurísticas de Nielsen  |  04/09 |  04/09 |  --- |  
+|  Territorio 3 |  Perspectiva da interação  |  06/09 |  06/09 |  --- |  
 
 ###   Quest #2 
 
@@ -30,8 +32,9 @@ Tabela 3: Cronograma detalhado da Quest #2
 
 |  Territorios | Descrição | Data do início   | Data do Fim  |  Autor(es) |
 |  --- |  --- |  --- |  --- |  --- |
-|  Territorio 4 |  --- |  11/09 |  11/09 |  --- |  
-|  Territorio 5 |  --- |  13/09 |  13/09 |  --- | 
+|  Territorio 4 |  Análise de dados em IHC |  11/09 |  11/09 |  --- |  
+|  Territorio 5 |  Compreensão e
+conceituação da interação |  13/09 |  13/09 |  --- | 
 
 ## Horizonte 
 
@@ -50,7 +53,7 @@ Tabela 5: Cronograma detalhado da Quest #3
 
 |  Territorios | Descrição | Data do início   | Data do Fim  |  Autor(es) |
 |  --- |  --- |  --- |  --- |  --- |
-|  Territorio 6 |  --- |  02/10 |  02/10 |  --- |  
+|  Territorio 6 |  Modelos Conceituais baseados em atividades |  02/10 |  02/10 |  --- |  
 |  Territorio 6b |  --- |  04/10 |  04/10 |  --- |  
 
 ###   Quest #4
